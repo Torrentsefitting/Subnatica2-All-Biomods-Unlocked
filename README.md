@@ -80,7 +80,20 @@ All of the following Biomod categories are unlocked:
 - 🛡️ **Exoskeletal Mods** — Physical armor and protection
 - 🌀 **Symbiotic Mods** — Creature bonding and passive buffs
 
+
+## 🧬 Full Biomod List (Subnautica 2 Early Access 2026)
+
+### Active Biomods
+- **Dash** — burst movement to dodge predators
+- **Sonic Echo** — biological sonar pulse for resource scanning
+- **Sea Skimmer** — fast surface movement
+
+### Passive Biomods
+- **Oxygen Control** — extended oxygen capacity
+- **Pathfinder** — navigation trail in cave systems
+- **Acid Resistance** — protection from bloom infestations
 ---
+
 
 ## 🖥️ System Requirements
 
