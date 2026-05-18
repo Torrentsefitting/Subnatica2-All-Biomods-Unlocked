@@ -196,7 +196,7 @@ Pull requests are welcome! If you find a broken unlock or want to add support fo
 - ✅ Backup & restore system
 - ✅ Windows 10/11 support
 
----
+---  
 
 <div align="center">
 
